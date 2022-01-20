@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> yoo Keep Going buddy, Happy Learning Shankar </h1>
+   <h1> yoo Keep Going buddy, Happy Learning Shankar. Deplyed from git to jenkins to ansible to image to hub to dockerhost </h1>
 
   
 </form>
